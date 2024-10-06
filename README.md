@@ -14,6 +14,6 @@ developer: https://t.me/pysmart
 # USAGE
 - there is the windows version and mac os version
 
-for further guide
+for further guide:
 
 contact developer: https://t.me/pysmart
