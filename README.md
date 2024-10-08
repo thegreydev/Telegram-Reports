@@ -17,3 +17,5 @@ developer: https://t.me/pysmart
 for further guide:
 
 contact developer: https://t.me/pysmart
+
+automated tool for sending bulk reports to telegram IDs
